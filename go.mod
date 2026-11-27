@@ -1,6 +1,6 @@
 module github.com/caddyserver/caddy/v2
 
-go 1.17
+go 1.24
 
 require (
 	github.com/BurntSushi/toml v1.1.0
@@ -12,7 +12,7 @@ require (
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/google/cel-go v0.7.3
 	github.com/google/uuid v1.3.0
-	github.com/klauspost/compress v1.15.6
+	github.com/klauspost/compress v1.18.7
 	github.com/klauspost/cpuid/v2 v2.0.13
 	github.com/lucas-clemente/quic-go v0.27.2
 	github.com/mholt/acmez v1.0.2
